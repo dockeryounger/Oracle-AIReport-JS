@@ -7,7 +7,7 @@
         if (!chatTag) return;
 
         const Agent_Title   = chatTag.getAttribute("agent_title") || "AIReport Chat";
-        const Agent_URL     = chatTag.getAttribute("host_url") || "about:blank";
+        const Agent_URL     = chatTag.getAttribute("agent_url") || "about:blank";
         const Profile_ID    = chatTag.getAttribute("profile_id") || "";
         const Profile_Name  = chatTag.getAttribute("profile_name") || "";
         const Chat_Width    = chatTag.getAttribute("chat_width") || "400";
