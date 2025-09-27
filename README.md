@@ -1,13 +1,5 @@
 # Oracle-AIReport-JS
 # 将AIReport Chat通过Ifram嵌入第三方页面，参考：
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <title>AIReport 测试页面</title>
-</head>
-<body>
-<h2>AIReport 测试页面</h2>
 
 <!-- 引入你的 AIReport-Chat.js -->
 <script src="./AIReport-Chat.js"></script>
