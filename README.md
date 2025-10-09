@@ -6,11 +6,11 @@
 <!-- 通过 aireport-chat 标签传递配置 -->
 <aireport-chat
             agent_title="AAA"
-            agent_url="http://YouServerIP/ords/r/ws_dev/aireportpublicpublisher/ask-data"
+            agent_url="http://YouServerIP:8080/ords/r/ws_dev/aireport/login"
             profile_id="261"
             profile_name="AAA_Porfile"
             chat_width="400"
             chat_height="750"
-            api_key="airpt-*******"
-    >
+            api_key="YouAPIKey"
+>
 </aireport-chat>
